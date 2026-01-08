@@ -1,6 +1,6 @@
 import cv2
 import os
-
+# for caputure
 # Dataset folder
 dataset_path = "dataset_images"
 
